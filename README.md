@@ -1,4 +1,5 @@
 # timer
+Github pages https://goodnewseveryone42.github.io/stop-watch/
 
 ## Project setup
 ```
